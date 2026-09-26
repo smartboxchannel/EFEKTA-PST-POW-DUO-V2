@@ -251,7 +251,7 @@
               "endpoint": 1,
               "cluster": "0403_PressureMeasurement",
               "attribute": "0000_MeasuredValue",
-              "inFunc": "value*0.001333"
+              "scale": 0.001
             }
           ]
         }
@@ -288,7 +288,7 @@
               "endpoint": 2,
               "cluster": "0403_PressureMeasurement",
               "attribute": "0000_MeasuredValue",
-              "inFunc": "value*0.001333"
+              "scale": 0.001
             }
           ]
         }
